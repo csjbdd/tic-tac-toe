@@ -1,5 +1,5 @@
 
-debugger;
+debugger; 
 // 변수 선언 안바뀌는 변수는 const로 선언한다.
 const strBtn = document.getElementById("start");
 const field = document.getElementById("field");
