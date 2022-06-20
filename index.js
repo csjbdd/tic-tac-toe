@@ -74,6 +74,7 @@ const winnerCheck = (e) => {debugger;
         if(reset == true) {
             location.reload();
         }
+        header.innerText=turn + "님이 승리 하셨습니다.";
         return;
     }
     
